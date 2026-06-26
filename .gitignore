@@ -1,0 +1,6 @@
+code/config.py
+.env
+__pycache__/
+code/__pycache__/
+*.pyc
+code/results

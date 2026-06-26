@@ -1,0 +1,102 @@
+[
+{
+  "id": 1,
+  "category": "knowledge",
+  "prompt": "What is Kubernetes and why is it used? Limit response to 25 words."
+}, 
+{
+  "id": 2,
+  "category": "knowledge",
+  "prompt": "Explain Docker to a beginner in less than 100 words."
+}, 
+{
+  "id": 3,
+  "category": "knowledge",
+  "prompt": "What is CI/CD? Answer in 5 bullet points."
+}, 
+{
+  "id": 4,
+  "category": "knowledge",
+  "prompt": "Explain SQL vs NoSQL in under 100 words."
+}, 
+{
+  "id": 5,
+  "category": "summarization",
+  "prompt": "Summarize the benefits of cloud computing in 5 bullet points."
+}, 
+{
+  "id": 6,
+  "category": "summarization",
+  "prompt": "Summarize why startups fail in under 100 words."
+},
+{
+  "id": 7,
+  "category": "summarization",
+  "prompt": "Summarize the role of a Product Manager in 5 bullet points."
+}, 
+{
+  "id": 8,
+  "category": "summarization",
+  "prompt": "Summarize the pros and cons of remote work in under 100 words."
+}, 
+{
+  "id": 9,
+  "category": "writing",
+  "prompt": "Write a professional meeting request email in under 120 words."
+}, 
+{
+  "id": 10,
+  "category": "writing",
+  "prompt": "Write a LinkedIn post announcing a product launch in under 120 words."
+}, 
+{
+  "id": 11,
+  "category": "writing",
+  "prompt": "Write a polite rejection email for a partnership proposal in under 120 words."
+}, 
+{
+  "id": 12,
+  "category": "writing",
+  "prompt": "Write a short job description for an Associate Product Manager in under 120 words."
+}, 
+{
+  "id": 13,
+  "category": "product",
+  "prompt": "Suggest 5 features for a dating app focused on serious relationships."
+}, 
+{
+  "id": 14,
+  "category": "product",
+  "prompt": "Suggest 5 improvements for a cloud deployment platform."
+}, 
+{
+  "id": 15,
+  "category": "product",
+  "prompt": "What metrics would you track for an AI interview platform? Answer in 5 bullet points."
+}, 
+{
+  "id": 16,
+  "category": "product",
+  "prompt": "Design a SaaS referral program in 5 bullet points."
+}, 
+{
+  "id": 17,
+  "category": "reasoning",
+  "prompt": "A user signs up successfully but cannot log in. List 5 possible root causes."
+}, 
+{
+  "id": 18,
+  "category": "reasoning",
+  "prompt": "A food delivery app sees a 20% drop in orders. List 5 investigation steps."
+}, 
+{
+  "id": 19,
+  "category": "reasoning",
+  "prompt": "A deployment becomes slow after a release. List 5 debugging steps."
+}, 
+{
+  "id": 20,
+  "category": "reasoning",
+  "prompt": "You have a $1000 marketing budget. List 5 factors to consider before spending it."
+}
+]
